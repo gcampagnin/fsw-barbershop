@@ -35,8 +35,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-#Environment Variables
 .env
-
-#Docker
-/.postgres-data/
+.postgres-data
